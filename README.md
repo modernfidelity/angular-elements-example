@@ -1,4 +1,4 @@
-# Web Components with Angular 6 Elements
+# Web Components with Angular Elements
 
 Built from a default Angular CLI setup
 
